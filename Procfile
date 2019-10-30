@@ -1,1 +1,1 @@
-worker: bundle exec ruby slack_bot.rb -p $PORT
+worker: bundle exec ruby kuronekobot.rb -p $PORT
