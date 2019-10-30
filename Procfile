@@ -1,1 +1,1 @@
-worker: bundle exec ruby kuronekobot.rb
+worker: bundle exec ruby pongbot.rb
